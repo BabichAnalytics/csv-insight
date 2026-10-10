@@ -1,0 +1,6 @@
+project,cost,days,status
+Deck A,12000,10,complete
+Deck B,15000,,active
+Deck A,12000,10,complete
+Deck C,,14,active
+
